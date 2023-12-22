@@ -7,7 +7,7 @@ Below are the links to the respective installation guides:
 
 [MediaPipe](https://developers.google.com/mediapipe/solutions/setup_python)
 
-[CV2]([https://docs.opencv.org/4.x/d5/de5/tutorial_py_setup_in_windows.html](https://pypi.org/project/opencv-python/))
+[CV2](https://pypi.org/project/opencv-python/)
 
 The main file contains the executable file, and utils simply contains the visualization function.
 
