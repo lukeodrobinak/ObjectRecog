@@ -1,3 +1,9 @@
+# utils.py
+# Authors: Luke O’Drobinak
+# Date: 12/21/2023
+# Collaborators:
+# Citations: N/A
+
 import cv2
 import numpy as np
 

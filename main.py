@@ -1,3 +1,10 @@
+# main.py
+# Authors: Luke O’Drobinak
+# Date: 12/21/2023
+# Collaborators:
+# Citations: N/A
+
+
 import argparse  # Importing necessary libraries
 import sys
 import time
